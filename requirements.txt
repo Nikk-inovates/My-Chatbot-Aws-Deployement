@@ -1,0 +1,13 @@
+fastapi==0.95.2
+uvicorn[standard]==0.22.0
+python-multipart==0.0.6
+sentence-transformers==2.2.2
+faiss-cpu
+python-dotenv==1.0.0
+PyMuPDF
+numpy==1.26.4
+scikit-learn
+google-generativeai
+streamlit
+requests==2.31.0
+httpx==0.24.1
